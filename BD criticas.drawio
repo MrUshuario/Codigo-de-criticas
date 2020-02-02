@@ -1,1 +1,151 @@
-<mxfile modified="2019-08-08T04:02:50.705Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:68.0) Gecko/20100101 Firefox/68.0" etag="TrffDe-s2H65McCPQL9G" version="11.1.2" type="github"><diagram id="JBJWnH2A5ppMdrGDwTaD" name="Page-1">7Vpdc9o4FP01zLQPdGwpNvBYSNPOdNplJuls+pQRtgLaNRaR5QD76ythCduSshAHWPD2Ceuiz3N0j3Sv3YGj+eozQ4vZNxrjpAO8eNWB1x0A/N4AiB9pWStLCP3CMmUkVrbScEv+wcroKWtOYpzVKnJKE04WdWNE0xRHvGZDjNFlvdojTeqjLtAUW4bbCCW29U8S81lh7Qdeaf+CyXSmR/Y99c8c6crKkM1QTJcVE/zUgSNGKS+e5qsRTiR6Gpei3c0L/24nxnDK92nwdPf05fsduOmH3L+OePr5/uewq3p5RkmuFtwBYSL6G8bkWUKYkGm6+SN8yuVMhwl+5GVJPE3l74jGDygVtTOSSYpIuiZiWsB7N/76Xnc5Ybq6tojZbsapW1839HF7/07nE4Y3ELFohtg733t/ObMf5ylHf+EqI5cy9RGdi42NGKEV8KHnvWI3bbyOr7UrL2eE49sFimR5KfRKVJrxeSJKvnhE2aIQkEeywrE0qJlu5qf7e8aM49WLLuhvHVtIIhZL4GwtqqgGXX+gxEDJYRdoIVmW4uJfKdusKizaiJSgTbe9lz4vHpTbv0ICgCUBd2iSIDnU1qENJAUCvA5exhn9G49oQpmwpDQVNYePJEkMk8Y0EohhYR9KPImQ24/qjzmJYznM0MUWo3kaS26uvUMR0jMJ6duEDBx8gGPRceVQZAN+nMYf5dFWwlphQqycre+rhZ8Srw+BLl6vFH5FaV1DE8fWcWhgKaQEsSnmuw4VG/MKooEDUW1jOEGcPNen4YJZjTCmxUmj9wA0GPX7BlUZzVmEVbPqgWn01N36nO5qYPRUIGH1tOF9u/DmWyF441bYl9LzocoEeF+qfH8X6UemKmw7VTsB3psqi/Teaanq/e+oCg/lVcA7LVV9B1VNo5OMpJhNCWpVdCIX5tdXdHP5KwIvruj85z+mGRHOK4OWCaUJRulls9G+IMw6gJwxWOiKwUwhPdilf2AJnY7BtGw9oJQTC83WBGI2KY44zBkYHy0Q04efg5Q/Jgy1l4uude4HVzYZJw2K/UPmKemGvRbdAqwcZXBJOcobLOb8gCW1KCKdEewMoTg0vRhxfMHHjJ09CPw9Je14uT4fHtCPZHI5RzFqgQe5ZeHCr9K/ZeEMZcF8AXAOomCnnKsXnYqft/XG0w9233d8GJzywvPW3G/T1wB4Rfh95bnSSpTKRrLw+lcHReZpjwNq9zuG/zTHFhpeDJum2OxbwomzoX7bM9d9A98r2JAqqyOT8yMzBex4tKEkeB88r1eXBQgGu4RBlsaYEbEOKdkHf2kIz2qXmKftxTg0cIXKjbZJV+wTYBwfYT/8vU/asU+AY580jZ3yLFdJ4mok+C9hwBsiiGpwUxnYEeQ06PYNTYuAhaRZxMgiIrQFwQo0v45xRiunTZUDO4Who5UfxWZo8fdKNiHQQQhwENIgUhHF8uvUQnbKj3zhp18=</diagram></mxfile>
+<mxfile modified="2020-02-02T22:24:32.329Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0" etag="CY0yasUsFghf6WV6RCrh" version="12.6.4" type="github">
+  <diagram id="JBJWnH2A5ppMdrGDwTaD" name="Page-1">
+    <mxGraphModel dx="1792" dy="1629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="qTqHNT2F86t1DctnGXYB-1" value="&lt;div align=&quot;left&quot;&gt;Cod_puntuaje tinyint (PK)&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Cod_Puntuada (FK)&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Puntaje_prom tinyint&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;PF_Mensaje tinyint&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;PF_Guion tinyint&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;PF_Apar_Tecnico tinyint&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Porc_Mensaje float&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Porc_Guion float&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Porc_Apar float&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;P_Mensaje tinyint&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;P_Guion tinyint&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;P_Apar_Tecnico tinyint&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-100" y="-239" width="230" height="230" as="geometry"/>
+        </mxCell>
+        <mxCell id="qTqHNT2F86t1DctnGXYB-2" value="Tabla puntuajes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-115" y="-270" width="90" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="qTqHNT2F86t1DctnGXYB-4" value="" style="endArrow=none;html=1;entryX=0;entryY=0.406;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="qTqHNT2F86t1DctnGXYB-8" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="-180" as="sourcePoint"/>
+            <mxPoint x="-140" y="-90" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qTqHNT2F86t1DctnGXYB-5" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1" target="qTqHNT2F86t1DctnGXYB-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="-180" as="sourcePoint"/>
+            <mxPoint x="110" y="-180" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qTqHNT2F86t1DctnGXYB-6" value="" style="endArrow=none;html=1;entryX=0;entryY=0.331;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="qTqHNT2F86t1DctnGXYB-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="-190" as="sourcePoint"/>
+            <mxPoint x="130" y="-170" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qTqHNT2F86t1DctnGXYB-7" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="-170" as="sourcePoint"/>
+            <mxPoint x="330" y="-200" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qTqHNT2F86t1DctnGXYB-8" value="&lt;div align=&quot;left&quot;&gt;Cod_sinergia tinyint (PK)&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Cod_puntuaje tinyint (FK)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Apartado1 varchar(15)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Apartado2 varchar(15)&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Positivo boolean&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Comentario varchar(300)&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" parent="1" vertex="1">
+          <mxGeometry x="345" y="-250" width="160" height="160" as="geometry"/>
+        </mxCell>
+        <mxCell id="qTqHNT2F86t1DctnGXYB-9" value="Tabla sinergia" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="355" y="-280" width="140" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="qTqHNT2F86t1DctnGXYB-10" value="Tabla Obra" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-110" y="-540" width="90" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="qTqHNT2F86t1DctnGXYB-11" value="&lt;div align=&quot;left&quot;&gt;Cod_obra tinyint (PK)&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Nombre varchar(50)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Fecha_evaluación date&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-140" y="-510" width="140" height="140" as="geometry"/>
+        </mxCell>
+        <mxCell id="qTqHNT2F86t1DctnGXYB-13" value="&lt;div align=&quot;left&quot;&gt;Cod_Puntuada (PK)&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Cod_obra tinyint (FK)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Cod_usuario (FK)&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Nombre varchar(50)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Fecha_evaluación date&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" parent="1" vertex="1">
+          <mxGeometry x="90" y="-510" width="140" height="140" as="geometry"/>
+        </mxCell>
+        <mxCell id="qTqHNT2F86t1DctnGXYB-14" value="Tabla Obra_Puntuada" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="85" y="-540" width="135" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="qTqHNT2F86t1DctnGXYB-15" value="" style="endArrow=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="qTqHNT2F86t1DctnGXYB-13" target="qTqHNT2F86t1DctnGXYB-11" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="-360" as="sourcePoint"/>
+            <mxPoint x="-140" y="-70" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qTqHNT2F86t1DctnGXYB-16" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="-430" as="sourcePoint"/>
+            <mxPoint x="80" y="-460" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qTqHNT2F86t1DctnGXYB-20" value="" style="endArrow=none;html=1;entryX=0.007;entryY=0.329;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="qTqHNT2F86t1DctnGXYB-13" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="-440" as="sourcePoint"/>
+            <mxPoint x="-140" y="-70" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qTqHNT2F86t1DctnGXYB-21" value="" style="endArrow=none;html=1;entryX=-0.021;entryY=0.686;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="qTqHNT2F86t1DctnGXYB-13" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="-440" as="sourcePoint"/>
+            <mxPoint x="-140" y="-70" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qTqHNT2F86t1DctnGXYB-22" value="&lt;div align=&quot;left&quot;&gt;Cod_usuario (PK)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Nombre_usuario varchar(50)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Fecha_inscripcion date&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" parent="1" vertex="1">
+          <mxGeometry x="370" y="-510" width="160" height="160" as="geometry"/>
+        </mxCell>
+        <mxCell id="qTqHNT2F86t1DctnGXYB-23" value="Tabla Usuarios" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="370" y="-530" width="120" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="khzGcjYmA4zi7UbtCgyK-1" value="Se crearea un Login para cada usaurio, donde tendra registros de sus analisis" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="-650" width="150" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="khzGcjYmA4zi7UbtCgyK-2" value="Aqui se guardan los puntuajes obtenidos antes y despues de la sinergia" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="-239" width="165" height="49" as="geometry"/>
+        </mxCell>
+        <mxCell id="khzGcjYmA4zi7UbtCgyK-3" value="Debera existir un registro de las obras a puntuarse" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-125" y="-640" width="120" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="khzGcjYmA4zi7UbtCgyK-4" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="qTqHNT2F86t1DctnGXYB-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="-390" as="sourcePoint"/>
+            <mxPoint x="370" y="-440" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="khzGcjYmA4zi7UbtCgyK-5" value="" style="endArrow=none;html=1;exitX=1.014;exitY=0.664;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="qTqHNT2F86t1DctnGXYB-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="-340" as="sourcePoint"/>
+            <mxPoint x="250" y="-440" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="khzGcjYmA4zi7UbtCgyK-6" value="" style="endArrow=none;html=1;exitX=1.029;exitY=0.329;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="qTqHNT2F86t1DctnGXYB-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="241.96000000000004" y="-407.03999999999996" as="sourcePoint"/>
+            <mxPoint x="250" y="-440" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="khzGcjYmA4zi7UbtCgyK-7" value="Aqui podemos es la ficha que unira la obra analisada con el usuario, para consultar dicho analisis" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="85" y="-640" width="145" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="khzGcjYmA4zi7UbtCgyK-8" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="qTqHNT2F86t1DctnGXYB-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="-320" as="sourcePoint"/>
+            <mxPoint x="140" y="-370" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="khzGcjYmA4zi7UbtCgyK-9" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-10" y="-250" as="sourcePoint"/>
+            <mxPoint x="60" y="-250" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="khzGcjYmA4zi7UbtCgyK-10" value="Una obra puede tener sinergias entre sus apartados, sumandose 1 punto a cada uno, o bien tener una anti-sinergia restandole un punto a cada uno" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-200" width="200" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="khzGcjYmA4zi7UbtCgyK-11" value="&lt;div&gt;&quot;P&quot; es el primer puntuaje, que se da por&lt;/div&gt;&lt;div&gt;separado, va del 1 al 10. Mientras PF, es el&lt;/div&gt;&lt;div&gt;puntuaje final, luego de sumar o restar&lt;/div&gt;&lt;div&gt;las sinergias.&lt;br&gt;&lt;/div&gt;" style="text;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-345" y="-190" width="230" height="74" as="geometry"/>
+        </mxCell>
+        <mxCell id="khzGcjYmA4zi7UbtCgyK-12" value="&lt;div&gt;Porc_ representan el valor que tendran &lt;br&gt;&lt;/div&gt;&lt;div&gt;cada uno para promediarse en&lt;/div&gt;&lt;div&gt;Puntaje_prom. Osea por ejemplo 0.3 (30%)&lt;/div&gt;&lt;div&gt;o 0.4 (40%), dando a cada uno un peso&lt;/div&gt;&lt;div&gt;segun el autor lo considere&lt;br&gt;&lt;/div&gt;" style="text;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-345" y="-120" width="230" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="khzGcjYmA4zi7UbtCgyK-13" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-10" y="-240" as="sourcePoint"/>
+            <mxPoint x="30" y="-250" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="khzGcjYmA4zi7UbtCgyK-14" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="-240" as="sourcePoint"/>
+            <mxPoint x="30" y="-250" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
