@@ -1,4 +1,4 @@
-<mxfile modified="2020-02-02T22:24:32.329Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0" etag="CY0yasUsFghf6WV6RCrh" version="12.6.4" type="github">
+<mxfile modified="2020-02-03T02:17:05.535Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0" etag="MRrYe2NTtsewuoR91xD2" version="12.6.4" type="github">
   <diagram id="JBJWnH2A5ppMdrGDwTaD" name="Page-1">
     <mxGraphModel dx="1792" dy="1629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="qTqHNT2F86t1DctnGXYB-1" value="&lt;div align=&quot;left&quot;&gt;Cod_puntuaje tinyint (PK)&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Cod_Puntuada (FK)&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Puntaje_prom tinyint&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;PF_Mensaje tinyint&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;PF_Guion tinyint&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;PF_Apar_Tecnico tinyint&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Porc_Mensaje float&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Porc_Guion float&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Porc_Apar float&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;P_Mensaje tinyint&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;P_Guion tinyint&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;P_Apar_Tecnico tinyint&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" parent="1" vertex="1">
           <mxGeometry x="-100" y="-239" width="230" height="230" as="geometry"/>
         </mxCell>
-        <mxCell id="qTqHNT2F86t1DctnGXYB-2" value="Tabla puntuajes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="qTqHNT2F86t1DctnGXYB-2" value="Tabla puntajes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-115" y="-270" width="90" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="qTqHNT2F86t1DctnGXYB-4" value="" style="endArrow=none;html=1;entryX=0;entryY=0.406;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="qTqHNT2F86t1DctnGXYB-8" edge="1">
